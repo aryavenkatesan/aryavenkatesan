@@ -18,15 +18,9 @@ Flutter/Firebase · 200+ downloads · ~$800 in real transactions within 2 weeks 
 
 ## 🔨 Currently Working On
 
-**The Commons** — in progress, more soon
+**The Commons** — platform reconnecting people with the communities and small businesses around them
 
 **CancerLINC** — mobile app for a non-profit serving 800+ cancer patients and 150+ social workers
-
----
-
-## 🛠 Stack
-
-`Flutter` `Firebase` `React` `Node.js` `Python` `Swift` `Figma` `AWS`
 
 ---
 
