@@ -5,17 +5,6 @@ I like building things that actually ship. Seeking SWE / PM roles at early-stage
 
 ---
 
-## 🚀 What I've Built
-
-**[Swipeshare](https://swipeshare.app/)** — Peer-to-peer meal swipe marketplace for college students  
-Flutter/Firebase · 200+ downloads · ~$800 in real transactions within 2 weeks of launch · got noticed by university dining services
-
-**[Runway](https://github.com/naasanov/runway)** — 🥇 HackDuke 2026 · First Place + Best Use of ElevenLabs
-
-**[Locust](https://github.com/naasanov/locust)** — 🥇 UNCP Hacks 2026 · First Place · Cybersecurity Track Winner
-
----
-
 ## 🔨 Currently Working On
 
 **The Commons** — platform reconnecting people with the communities and small businesses around them
