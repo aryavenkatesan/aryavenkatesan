@@ -6,7 +6,7 @@ CS + Entrepreneurship @ UNC Chapel Hill · Graduating Aug 2026 · Seeking SWE / 
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="35%" valign="top">
 
 ### 🚀 What I've Built
 
