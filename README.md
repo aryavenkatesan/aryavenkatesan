@@ -1,11 +1,11 @@
-# Hey, I'm Arya 👋
+# Hey, I'm Arya 
 
 CS + Entrepreneurship @ UNC Chapel Hill · Graduating Aug 2026  
-I like building things that actually ship. Seeking SWE / PM roles at early-stage companies.
+I like building things that people use. Seeking SWE / PM roles at early-stage companies.
 
 ---
 
-## 🔨 Currently Working On
+## Currently Working On
 
 **The Commons** — platform reconnecting people with the communities and small businesses around them
 
@@ -13,6 +13,6 @@ I like building things that actually ship. Seeking SWE / PM roles at early-stage
 
 ---
 
-## 📬 Find Me
+## Find Me
 
 [Portfolio](https://aryav.systems/) · [LinkedIn](https://linkedin.com/in/arya-venkatesan) · [Email](mailto:aryav@unc.edu)
