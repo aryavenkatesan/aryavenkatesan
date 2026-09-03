@@ -1,7 +1,8 @@
 # Hey, I'm Arya 
 
 CS + Entrepreneurship @ UNC Chapel Hill · Graduated Aug 2026  
-I like building things that people use. 
+I like building things that people use.
+
 FDE @ Describe
 
 ---
