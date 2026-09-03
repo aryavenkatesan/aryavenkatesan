@@ -1,7 +1,8 @@
 # Hey, I'm Arya 
 
-CS + Entrepreneurship @ UNC Chapel Hill · Graduating Aug 2026  
-I like building things that people use. Seeking SWE / PM roles at early-stage companies.
+CS + Entrepreneurship @ UNC Chapel Hill · Graduated Aug 2026  
+I like building things that people use. 
+FDE @ Describe
 
 ---
 
